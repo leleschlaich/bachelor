@@ -78,14 +78,14 @@ const IndexPage = (props) => {
               <>
                 <div>
                   <p>
-                    Augmented Reality with SparkAR.
-                    <br /> See more in my{" "}
+                  Since the beginning of my Hauptstudium I became more and more interested in AR and started teaching myself Spark AR. I combined this with my courses and it really became my passion which I´m happy to implement nowadays even in freelancing projects. 
+                    {/* <br /> See more in my{" "}
                     <a
                       href="https://www.facebook.com/sparkarhub/portfolios/ig/leleschl/"
                       target="_blank"
                     >
                       AR-Filter-Portfolio
-                    </a>
+                    </a> */}
                   </p>
                 </div>
 
@@ -136,10 +136,27 @@ const IndexPage = (props) => {
             body: (
               <>
                 <p>
-                  Meat = Heat? Website to raise awareness on climate change in
+                  Meat = Heat? is a website to raise awareness on climate change in
                   connection to meat consumption, written in Html and Css.
                   <br />
-                  Teamwork with Aline Sawalsky.
+                  <br />
+                  Semester: 4
+                  <br />
+                  Class: Klimagrafik
+                  <br />
+                  Lecturer: Prof. Boris Müller
+                  <br />
+                  Teamwork: Aline Sawalsky
+                  <br />
+                  Website-Link:<a
+                    href="https://interface.fh-potsdam.de/klimagrafik/meat-eq-heat/"
+                    target="_blank"
+                  >
+                    &nbsp;Meat=Heat?
+                  </a>
+                  <br />
+                  
+                  
                 </p>
 
                 <div style={{ padding: "55.07% 0 0 0", position: "relative" }}>
@@ -159,13 +176,7 @@ const IndexPage = (props) => {
                   ></iframe>
                 </div>
                 <p>
-                  See the full website here:
-                  <a
-                    href="https://interface.fh-potsdam.de/klimagrafik/meat-eq-heat/"
-                    target="_blank"
-                  >
-                    &nbsp;Meat=Heat?
-                  </a>
+                  In this project I learnded
                 </p>
                 <img className="images mt-2" src={climate2}></img>
               </>
@@ -191,9 +202,24 @@ const IndexPage = (props) => {
                   A scenario space navigating between climate crisis, ageing and
                   cyber attacks, which designs resilient artefacts between
                   smartness, dumbness, convenience and inconvenience.
+                
                   <br />
-                  Group project with Fidel Thomet, Thomas Haas, Felix Harle
                   <br />
+                  Semester: 4
+                  <br />
+                  Class: Stranger Living – Are Dumb Cities the New Smart Cities?
+                  <br />
+                  Lecturers: Prof. Dr. Frank Heidmann and M.A. Jordi Tost
+                  <br />
+                  Teamwork: Fidel Thomet, Thomas Haas, Felix Harle
+                  <br />
+                  Website-Link:
+                  <a
+                    href="https://future-in-a-bag.vercel.app/#/"
+                    target="_blank"
+                  >
+                    &nbsp;The future in a bag
+                  </a>
                 </p>
 
                 <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
@@ -212,15 +238,7 @@ const IndexPage = (props) => {
                     allowFullScreen
                   ></iframe>
                 </div>
-                <p>
-                  See the full website here:
-                  <a
-                    href="https://future-in-a-bag.vercel.app/#/"
-                    target="_blank"
-                  >
-                    &nbsp;Scenario-Website
-                  </a>
-                </p>
+                
                 <img className="images" src={speculative1}></img>
               </>
             ),
@@ -231,26 +249,38 @@ const IndexPage = (props) => {
           {{
             title: (
               <h1>
-                Scenario
+                Decolonising 
                 <br />
-                Instal
-                <wbr />
-                lation
+                Design
               </h1>
             ),
             body: (
               <>
                 <p>
-                  Visual experiments on disruptive climate system changes due to
-                  global warming. We only have only 8 more years to reach the
-                  tipping points of our earth. The dieback of the amazon
-                  rainforest is just one of them. <br /> Group project with Memo
-                  Yapici, Kenny Löffler, Mariana Reinhardt
+                From the beginning we were so intrigued by the story of the açaí and how its entangled by the marketing of superfoods. From an indigenous food to a trendy superfood bowl, how did this process happen? How does the process of exotification of products originally from the Global South happens? What is the impact of such products? On communities, environmentally and so on.From the beginning we were so intrigued by the story of the açaí and how its entangled by the marketing of superfoods. From an indigenous food to a trendy superfood bowl, how did this process happen? How does the process of exotification of products originally from the Global South happens? What is the impact of such products? On communities, environmentally and so on.
+                
+                  <br />
+                  <br />
+                  Semester: 8
+                  <br />
+                  Class: Decolonizing Data Visualization – Visualizing Postcolonies
+                  <br />
+                  Lecturers: Prof. Dr. Marian Dörk and Lamin Manneh
+                  <br />
+                  Teamwork: Mariana Reinhardt
+                  <br />
+                  Website-Link:
+                  <a
+                    href="https://leleschlaich.github.io/decolonizingdataviz/"
+                    target="_blank"
+                  >
+                    &nbsp;Açaí, the superfood?
+                  </a>
                 </p>
 
                 <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
-                  <iframe
-                    src="https://player.vimeo.com/video/363540500?autoplay=1&amp;muted=1&amp;color=ffffff&amp;portrait=0#t=9m19s&amp;dnt=1"
+                <iframe
+                    src="https://player.vimeo.com/video/755631196?h=3d2e8cffff?autoplay=1&amp;muted=1&amp;color=ffffff&amp;portrait=0#t=9m19s&amp;dnt=1"
                     style="position:absolute;top:0;left:0;width:100%;height:100%;"
                     frameBorder="0"
                     allow="autoplay; fullscreen; picture-in-picture"
@@ -269,31 +299,6 @@ const IndexPage = (props) => {
             ),
           }}
         </Container>
-
-        <Container>
-          {{
-            title: (
-              <h1>
-                data
-                <br />
-                graphic
-              </h1>
-            ),
-            body: (
-              <>
-                <p>
-                  The holy Tohil. The Fireplace of the Maya in data. <br /> 1000
-                  words with no words needed
-                </p>
-                <img className="images mt-1" src={tohil1}></img>
-                <img className="images mt-1" src={tohil2}></img>
-                <img className="images mt-1" src={tohil3}></img>
-                <p>Photos by Renee Klaßen</p>
-              </>
-            ),
-          }}
-        </Container>
-
         <Container>
           {{
             title: (
@@ -306,8 +311,16 @@ const IndexPage = (props) => {
             body: (
               <>
                 <p>
-                  Exploring 3D and Animation in Maya. Muted due to copyright:
-                  Original with Zoom Zoom by Polo and Pan.
+                  My Erasmus-Semester was a great time to explore 
+                  other and mainly new directions of digital arts and multimedia: 
+                  3-Dimensionality and Animation, 2D-Animation, Film and Sound Production and Programming.
+                  <br />
+                  <br />
+                  Semester: 6
+                  <br />
+                  Class: Multimedia Studio Practices II
+                  <br />
+                  Lecturer: José Teixeira
                 </p>
                 <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
                   <iframe
@@ -329,6 +342,54 @@ const IndexPage = (props) => {
             ),
           }}
         </Container>
+        <Container>
+          {{
+            title: (
+              <h1>
+                intern
+                <br />
+                ship
+              </h1>
+            ),
+            body: (
+              <>
+
+                <p><br />
+                  Semester: 7
+                  <br />
+                NEEEU Spaces GmbH was founded by Raffael Moco Schiller and Javier Soto Morras in 2017.
+Their mission is to help clients create meaningful products, services and experiences. In doing so, they are passionate about people, innovative technologies and great design.
+The focus is on: Human-Centered, Hands on & Playful.
+
+
+                </p>
+                <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
+                  <iframe
+                    src="https://player.vimeo.com/video/705329936?h=71585cd8a2?&amp;muted=0&amp;autoplay=0&amp;loop=1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;dnt=1"
+                    frameBorder="0"
+                    allow="autoplay; fullscreen; picture-in-picture"
+                    allowFullScreen
+                    style={{
+                      position: "absolute",
+                      top: 0,
+                      left: 0,
+                      width: "100%",
+                      height: "100%",
+                    }}
+                    title="Internship"
+                  ></iframe>
+                </div>
+                
+                <img className="images mt-1" src={tohil1}></img>
+                <img className="images mt-1" src={tohil2}></img>
+                <img className="images mt-1" src={tohil3}></img>
+                
+              </>
+            ),
+          }}
+        </Container>
+
+        
 
         <div className="container footer">
           <h1>
