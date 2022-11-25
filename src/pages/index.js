@@ -410,7 +410,7 @@ In our work, we show alternative strategies of crisis management that focus on t
 
                 <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
                 <iframe
-                    src="https://player.vimeo.com/video/755631196?h=3d2e8cffff?autoplay=1&amp;muted=1&amp;color=ffffff&amp;portrait=0#t=9m19s&amp;dnt=1"
+                    src="https://player.vimeo.com/video/755631196?h=3d2e8cffff?autoplay=1&amp;muted=1&amp;color=ffffff&amp;portrait=0&amp;dnt=1"
                     style="position:absolute;top:0;left:0;width:100%;height:100%;"
                     frameBorder="0"
                     allow="autoplay; fullscreen; picture-in-picture"
