@@ -152,13 +152,13 @@ const IndexPage = (props) => {
                   </a>
                   <br />
                   <br />
-                  The scrollytelling website Meat = Heat?, is a significant project for me since it is very important to me to raise awareness on climate change in connection to meat consumption. Also this project was for one of my first projects fully programmed with Html and Css. 
-                  The main pillars in our concept were to not missionize the topic, to communicate on a personal level, use simple communication, and to tell stories.
+                  The scrollytelling website Meat = Heat?, is a significant project for me since it is very important to me to raise awareness on climate change in connection to meat consumption. The main pillars in our concept were to not missionize the topic, but to communicate on a personal level, use simple communication, and to tell stories.
+                  
                   <br />
                   <br />
-                  I learned a lot in this course and now I look back proudly on our first own website. Of course it was not always easy, we had struggles coding and made 1001 attempts of a sankey diagram to find out in the last session that there are websites for ready made sankeys. In addition to that the research was often very hard and it was difficult to find exactly what we needed, even though (we thought) there is so much in the internet and we had good books. 
+                  This project was for one of my first projects fully programmed with Html and Css. I learned a lot in this course and now I look back proudly on our first own website. Of course it was not always easy, we had struggles coding and made 1001 attempts of a sankey diagram to find out in the last session that there are websites for ready made sankeys. In addition to that the research was often very hard and it was difficult to find exactly what we needed, even though (we thought) there is so much in the internet and we had good books. 
                   <br />
-                  <br />This course was very time consuming, because we could never see each other in real life to talk, get feedback or help each other. In this first Corona-Semester, long calls, Zooms and huge Miro boards were getting normal but still exhausting.
+                  <br />This course was very time consuming, because we could never see each other in real life to talk, get feedback or help each other. In this first Corona-Semester, long calls, Zooms and huge Miro boards were exhausting but also getting normal.
                   
                   
                   
@@ -214,22 +214,23 @@ const IndexPage = (props) => {
                     href="https://future-in-a-bag.vercel.app/#/"
                     target="_blank"
                   >
-                    &nbsp;The future in a bag
+                    &nbsp;The Future in a Bag
                   </a>
                   <br />
                   <br />
 
-                  The future in a bag: What are everyday objects of
+                  The Future in a Bag: What are everyday objects of
                   crisis-ridden futures?
                   A scenario space navigating between climate crisis, ageing and
                   cyber attacks, which designs resilient artefacts between
                   smartness, dumbness, convenience and inconvenience.
+                  How can the concept of resilience be organised in a decentralised, spontaneous, flexible and accessible way? 
                   <br />
                   <br />
-                  How can the concept of resilience be organised in a decentralised, spontaneous, flexible and accessible way? Our project The Future in a Bag is looking for possible scenarios. To do this, we created many small crisis visions of the future in which the population uses simple LoFi artefacts to protect themselves against two acute risks. For each scenario, we show a smart, i.e. high-tech prototype and a dumb, i.e. natural and intuitive prototype.
+                  Our project is looking for possible scenarios. To do this, we created many small crisis visions of the future in which the population uses simple LoFi artefacts to protect themselves against two acute risks. For each scenario, we show a smart, i.e. high-tech prototype and a dumb, i.e. natural and intuitive prototype.
                   <br />
                   <br />
-In our work, we show alternative strategies of crisis management that focus on the autonomy and decision-making power of individual citizens. With the help of these speculative futures, we illustrate that a city can also be organised bottom-up in many respects.
+In our work, we show alternative strategies of crisis management that focus on the autonomy and decision-making power of individual citizens. With the help of these speculative futures, we illustrate that a city can also be organised bottom-up in many respects. With a part of the group I really learned what great teamwork can look like. Especially when you come from different backgrounds and everyone has different specialisations and skills. 
                 
                   <br />
                   
@@ -301,7 +302,8 @@ In our work, we show alternative strategies of crisis management that focus on t
                 </div>
                 <p>
                 In the class Contemporary Art Theory and Lab Practices II with Carlos Amaral and Rui Caldas we learned everything about sound and video recording, production and editing.
-                My group and me decided to create a documentary.</p>
+                My group and me decided to create a documentary. I liked that we were not working at home or uni for this project but at the place we were documenting. Talking to the people and their lives was a approach for me where I learned a lot.
+                Also being at a professional sound studio imitating sounds and editing them in a very precise way was a new experience for me.</p>
                 <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
                   <iframe
                     src="https://player.vimeo.com/video/772871719?h=b70b09f1ca&amp;muted=0&amp;autoplay=0&amp;loop=1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;dnt=1"
@@ -347,7 +349,11 @@ In our work, we show alternative strategies of crisis management that focus on t
                   <br />
                   <br />I was able to take a lot with me from my time there, whether it was programme knowledge in Figma, Blender, Unity or general project structures, the structure and development of projects, teamwork or also what I need to be able to work well and motivated.
                   I participated in several website, app and game designs and concepts, in thinking and implementing AR, did 3-dimensional illustrations and animation, sketching and ideation workshops.
-                </p>
+                  <br />
+                  <br />
+                  password: neeeu
+                  
+                  </p>
                 <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
                   <iframe
                     src="https://player.vimeo.com/video/705329936?h=71585cd8a2?&amp;muted=0&amp;autoplay=0&amp;loop=1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;dnt=1"
