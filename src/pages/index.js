@@ -76,9 +76,9 @@ const IndexPage = (props) => {
               <>
                 <div>
                   <p>
-                  Since the beginning of my Hauptstudium I became more and more interested in AR and started teaching myself Spark AR. At first, rather in my free time at home for my own, actually that was during covid so yes, a lot of time to explore. 
+                  Since the beginning of my Hauptstudium I became more and more interested in AR and started teaching myself Spark AR. At first, rather in my free time at home for my own. That was during covid lockdown, so I had a lot of time to explore. 
                   <br /><br />
-                  I started implementing AR into my uni projects, took courses related to AR and facefilters became my passion, which I´m happy to implement nowadays even in freelancing projects. AR fascinates me a lot, because it’s just at it’s beginning and we, ourselves, are the ones who can shape this field. There’s a lot of potential and it is exciting to find new application areas.
+                  I started implementing AR into my uni projects, took courses related to AR and facefilters became my passion. I´m happy to implement them nowadays even in freelancing projects. AR fascinates me a lot, because it’s just at it’s beginning and we, ourselves, are the ones who can shape this field. There’s a lot of potential and it is exciting to find new application areas.
                     {/* <br /> See more in my{" "}
                     <a
                       href="https://www.facebook.com/sparkarhub/portfolios/ig/leleschl/"
