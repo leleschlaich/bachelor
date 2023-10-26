@@ -387,7 +387,7 @@ In our work, we show alternative strategies of crisis management that focus on t
             body: (
               <>
                 <p>
-                Semester: 8
+                  Semester: 8
                   <br />
                   Class: Decolonizing Data Visualization – Visualizing Postcolonies
                   <br />
@@ -411,7 +411,9 @@ In our work, we show alternative strategies of crisis management that focus on t
                   <br />We wanted to look at the small stories and data but also the important numbers and information to see bigger picture on how the açaí is depicted, in a small but also on a larger scale. For example, we were fascinated by the indigenous myth but then also seeing the numbers of exportation nowadays.
                   <br />
                   <br />In a lot of sources the opinion and perspectives shown doesn´t capture the other side of the story. For instance when researching about superfoods, they are mostly highly advertised and if we look deeper there’s a lot more we could find in a critical direction.
-                 
+                  <br />
+                  This project came into being in the class Decolonizing Data Visualization – Visualizing Postcolonies with Lecturers: Prof. Dr. Marian Dörk and Lamin Manneh
+                  and was a teamwork with Mariana Reinhardt.
                 </p>
 
                 <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
